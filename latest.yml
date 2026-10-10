@@ -1,8 +1,8 @@
-version: 1.0.5
+version: 1.0.6
 files:
-  - url: USBLike-Setup-1.0.5.exe
-    sha512: LkSl+xrgCx5rhbktvbtOzeMM9zDW+V6h1noVNlrjLW3zEpRVS5Pmmxd6lWUeMaolucZHaqGHUpJ1FI9DWmjAhw==
-    size: 108490670
-path: USBLike-Setup-1.0.5.exe
-sha512: LkSl+xrgCx5rhbktvbtOzeMM9zDW+V6h1noVNlrjLW3zEpRVS5Pmmxd6lWUeMaolucZHaqGHUpJ1FI9DWmjAhw==
-releaseDate: '2026-10-10T14:23:51.965Z'
+  - url: USBLike-Setup-1.0.6.exe
+    sha512: IWnQHzApT5pNytC9D4/QsDeMlGeStIHbbBS6GD6dTsdj3XxIo17N5XTHAuZmANn+8jC7Z6XGrxYTOx2TCydi4g==
+    size: 108493523
+path: USBLike-Setup-1.0.6.exe
+sha512: IWnQHzApT5pNytC9D4/QsDeMlGeStIHbbBS6GD6dTsdj3XxIo17N5XTHAuZmANn+8jC7Z6XGrxYTOx2TCydi4g==
+releaseDate: '2026-10-10T20:17:57.864Z'
